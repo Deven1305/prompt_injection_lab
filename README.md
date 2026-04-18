@@ -2,7 +2,7 @@
 ### LLM Security Research Lab — OWASP LLM01:2025
 
 > **Research-level implementation** of prompt injection attacks and multi-layer defenses  
-> on LLM-integrated web applications using **Llama 3 (Ollama)** and **Gemini 1.5 Flash**.
+> on LLM-integrated web applications using **Llama 3 (Ollama)** and **Gemini 2.5 Flash**.
 
 ---
 
@@ -38,7 +38,7 @@ defenses informed by **OWASP LLM01** and **Chen et al. (2024)** *(StruQ, arXiv:2
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/your-username/prompt-injection-lab
+git clone https://github.com/Deven1305/prompt_injection_lab
 cd prompt-injection-lab
 pip install -r requirements.txt
 ```
